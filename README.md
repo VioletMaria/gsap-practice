@@ -1,4 +1,4 @@
-Follow along tutorial on using gsap on a React project! Check it out :)
+Follow along tutorial on using gsap on a React project! Check it out :) https://www.youtube.com/watch?v=RbxHZwFtRT4
 
 <div align="center">
     <a href="https://gsap-crash-course.vercel.app" target="_blank">
