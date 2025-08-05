@@ -1,3 +1,5 @@
+Follow along tutorial on using gsap on a React project! Check it out :)
+
 <div align="center">
     <a href="https://gsap-crash-course.vercel.app" target="_blank">
       <img src="public/preview.png" alt="Project Banner">
